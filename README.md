@@ -13,10 +13,10 @@
 
 ## About Me 
 
-Hi there! I'm <b>Esaruhulla — </b>.a passionate Software Developer with a strong focus on<b>MERN Stack Development</b>. I enjoy sharing my knowledge and helping others learn, so feel free to follow me if you'd like to explore more of what I do. Beyond coding, I love spending time reading and writing <b>Articles</b>.
+Hi there! I'm <b>Esaruhulla — </b>a passionate Software Developer with a strong focus on <b>MERN Stack Development</b>. I enjoy sharing my knowledge and helping others learn, so feel free to follow me if you'd like to explore more of what I do. Beyond coding, I love spending time reading and writing <b>Articles</b>.
 
 
-<h3>When I code, I rely on</h3>
+<h3>When I code, I rely on creativity</h3>
 
 
 
