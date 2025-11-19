@@ -15,6 +15,7 @@
 
 Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passionate Software Developer with a strong focus on <b>MERN Stack Development</b>. I enjoy sharing my knowledge and helping others learn, so feel free to follow me if you'd like to explore more of what I do. Beyond coding, I love spending time reading and writing <b>Articles</b>.
 <!---- 👋 Hi, I’m **[@Esaruhulla](https://github.com/esaruhulla1)**--->
+### 🧐 More About Me:
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript ** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Firebase ** for the backend.
 - 💬 Ask me about **MERN-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
