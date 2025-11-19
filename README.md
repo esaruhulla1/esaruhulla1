@@ -6,14 +6,12 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Esaruhula</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Hello+There!+%F0%9F%91%8B;This+is+Esaruhulla....;Passionate+MERN+Stack+Web+Developer;JavaScript+Enthusiast;Nice+to+meet+you!" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+There!+%F0%9F%91%8B;This+is+Esaruhulla....;Nice+to+meet+you!)](https://git.io/typing-svg)
 <!--
 **esaruhulla1/esaruhulla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
