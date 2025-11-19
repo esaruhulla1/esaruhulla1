@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png](https://github.com/esaruhulla1/esaruhulla1/blob/main/banner-img.png)" alt="Banner" />
+</p>
+
 <!--
 **esaruhulla1/esaruhulla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
