@@ -43,7 +43,7 @@ Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passion
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esaruhulla1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esaruhulla1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esaruhulla1&theme=transparent&hide_border=true) |
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=esaruhulla1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## Contact
 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/esaruhulla/)
