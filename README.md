@@ -42,10 +42,6 @@ Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passion
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esaruhulla1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esaruhulla1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esaruhulla1&theme=transparent&hide_border=true) |
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/esaruhulla1/contribution-snake/blob/output/grid.svg)
-
-
 
 ## Contact
 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/esaruhulla/)
