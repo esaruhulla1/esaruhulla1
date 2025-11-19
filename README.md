@@ -40,7 +40,17 @@ Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passion
 
 
 
+## Contact
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/esaruhulla/)
 
+You can also find me on:
+
+- **Email**: esaruhulla01@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/esaruhulla/)
+- **Facebook** : [Click Here](https://www.facebook.com/fbesasagor)
+
+
+Let's connect and discuss exciting opportunities!
 
 <!--
 **esaruhulla1/esaruhulla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
