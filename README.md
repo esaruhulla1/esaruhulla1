@@ -12,7 +12,6 @@
 
 <!--- about --->
 ## About Me 
-
 Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passionate Software Developer with a strong focus on <b>MERN Stack Development</b>. I enjoy sharing my knowledge and helping others learn, so feel free to follow me if you'd like to explore more of what I do. Beyond coding, I love spending time reading and writing <b>Articles</b>.
 <!---- 👋 Hi, I’m **[@Esaruhulla](https://github.com/esaruhulla1)**--->
 <!---### 🧐 More About Me:--->
@@ -24,8 +23,6 @@ Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passion
 <!---- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**--->
 <!--- - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.--->
 <br/>
-
-
 
 <h3>When I code, I rely on creativity</h3>
 
@@ -39,8 +36,8 @@ Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passion
 <!---For crate icon: https://shields.io/badges/git-hub-followers-->
 
 
- ## Github Stats
 
+ ## Github Stats
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esaruhulla1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esaruhulla1&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esaruhulla1&theme=transparent&hide_border=true) |
