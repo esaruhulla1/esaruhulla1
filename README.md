@@ -18,10 +18,8 @@ Hi there! I'm <b>[@Esaruhulla](https://github.com/esaruhulla1) — </b>a passion
 
 <!---- 👋 Hi, I’m **[@Esaruhulla](https://github.com/esaruhulla1)**--->
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript ** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Firebase ** for the backend.
-<!--- - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.--->
-- 💬 Ask me about **MERN-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-<!---- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**--->
+- 🗄️ Using **Node.js, Express.js, MongoDB, Firebase ** for the backend. <!--- - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.--->
+- 💬 Ask me about **MERN-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.  <!---- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**--->
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/esaruhulla)**
 - 📫 Feel free to reach me out **[Email](esaruhulla01@gmail.com)**
   
