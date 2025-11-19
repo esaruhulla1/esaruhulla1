@@ -11,9 +11,22 @@
 </div>
 
 
+<!--- about --->
 ## About Me 
 
 Hi there! I'm <b>Esaruhulla — </b>a passionate Software Developer with a strong focus on <b>MERN Stack Development</b>. I enjoy sharing my knowledge and helping others learn, so feel free to follow me if you'd like to explore more of what I do. Beyond coding, I love spending time reading and writing <b>Articles</b>.
+
+- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
+- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
+- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
+  
+<br/>
+
 
 
 <h3>When I code, I rely on creativity</h3>
