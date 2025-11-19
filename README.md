@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png](https://github.com/esaruhulla1/esaruhulla1/blob/main/banner-img.png" alt="Banner" />
+  <img src="[https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png](https://github.com/esaruhulla1/esaruhulla1/blob/main/banner-img.png" alt="Banner](https://github.com/esaruhulla1/esaruhulla1/blob/main/banner-img.png?raw=true)" />
 </p>
 
 <!--
