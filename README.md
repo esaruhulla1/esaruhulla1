@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="https://github.com/esaruhulla1/esaruhulla1/blob/main/banner-img.png" alt="Hello world">
 
 
 <!--
